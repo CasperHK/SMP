@@ -1,0 +1,3 @@
+module SMPAndroid {
+    header "/home/runner/work/SMP/SMP/.build/x86_64-unknown-linux-gnu/debug/SMPAndroid.build/include/SMPAndroid-Swift.h"
+}

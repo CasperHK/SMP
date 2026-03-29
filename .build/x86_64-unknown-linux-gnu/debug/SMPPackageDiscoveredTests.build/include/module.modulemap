@@ -1,0 +1,3 @@
+module SMPPackageDiscoveredTests {
+    header "/home/runner/work/SMP/SMP/.build/x86_64-unknown-linux-gnu/debug/SMPPackageDiscoveredTests.build/include/SMPPackageDiscoveredTests-Swift.h"
+}
