@@ -1,0 +1,20 @@
+# Swift / SPM
+.build/
+*.o
+*.d
+*.swp
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/
+
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+*.apk
+*.aab
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
